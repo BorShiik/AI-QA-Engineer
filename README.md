@@ -21,7 +21,7 @@ An advanced AI-powered agent designed to automate software quality assurance wor
 ## **🛠️ Installation & Setup**
 
 1. **Clone the Repository**  
-   git clone \[https://github.com/BorShiik/AI-QA-Engineer.git\](https://github.com/BorShiik/AI-QA-Engineer.git)  
+   git clone [https://github.com/BorShiik/AI-QA-Engineer.git](https://github.com/BorShiik/AI-QA-Engineer.git)  
    cd ai-qa-engineer
 
 2. **Install Dependencies**  
